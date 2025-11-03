@@ -14,8 +14,8 @@ This Bash script automates the installation and configuration of OpenSSH server 
 - Run as root or with `sudo`.
 
 ## Installation & Usage
-1. Download the script:
-2. 
+1. Download the script
+
 ## Troubleshooting
 - If SSH fails: Check `sudo systemctl status ssh`.
 - Firewall issues: `sudo ufw status` and `sudo ufw reset` to restart.
